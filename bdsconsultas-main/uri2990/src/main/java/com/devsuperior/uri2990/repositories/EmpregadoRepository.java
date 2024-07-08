@@ -29,7 +29,7 @@ public interface EmpregadoRepository extends JpaRepository<Empregado, Long> {
 			+ "FROM Empregado obj "
 			+ "INNER JOIN obj.projetosOndeTrabalha "
 			+ ") "
-			+ "ORDER BY obj.cpf" )
+			+ "ORDER BY obj.cpf")
 	List<EmpregadoDeptDTO> search2();
 	
 	

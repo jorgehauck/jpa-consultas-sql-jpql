@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2602.entities.Customer"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2602.repositories.CustomerRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2602.projections.CustomerMinProjection"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2602.dto.CustomerMinDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.entities.Movie"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.repositories.MovieRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.projections.MovieMinProjection"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2611.dto.MovieMinDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2621.projections.ProductMinProjection"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2621.dto.ProductMinDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2609.dto.CategorySumDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2737.dto.LawyerMinDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.devsuperior.uri2990.dto.EmpregadoDeptDTO"/>
+</qualifiedTypeNameHistroy>

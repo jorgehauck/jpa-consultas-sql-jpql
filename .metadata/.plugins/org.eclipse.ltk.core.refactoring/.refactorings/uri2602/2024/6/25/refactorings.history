@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CustomerMinDTO.java&apos; to &apos;uri2602/src/main/java/com.devsuperior.uri2602.dto&apos;&#x0D;&#x0A;- Original project: &apos;uri2602&apos;&#x0D;&#x0A;- Destination element: &apos;uri2602/src/main/java/com.devsuperior.uri2602.dto&apos;&#x0D;&#x0A;- Original element: &apos;com.devsuperior.uri2602.CustomerMinDTO.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.devsuperior.uri2602.dto" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.devsuperior.uri2602{CustomerMinDTO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1718500472335" units="1" version="1.0"/>
+</session>

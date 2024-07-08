@@ -49,7 +49,7 @@ public class Uri2990Application implements CommandLineRunner {
 		List<EmpregadoDeptProjection> list1 = repository.search3();
 		List<EmpregadoDeptDTO> result3 = list1.stream().map(x -> new EmpregadoDeptDTO(x)).collect(Collectors.toList());
 	
-		System.out.println("\n*** RESULTADO SQL RAIZ:");
+		System.out.println("\n*** RESULTADO SQL RAIZ LEFT JOIN:");
 		result3.forEach(item -> {
 			System.out.println(item);
 		});
